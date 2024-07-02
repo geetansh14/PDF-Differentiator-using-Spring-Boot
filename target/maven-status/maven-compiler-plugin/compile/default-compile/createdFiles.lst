@@ -1,0 +1,4 @@
+com\scoreme\pdfread\PdfAnalysisService.class
+com\scoreme\pdfread\PdfUtil.class
+com\scoreme\pdfread\PDFAnalysisController.class
+com\scoreme\pdfread\PDFAnalyserApplication.class

@@ -1,0 +1,15 @@
+{
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Spring Boot-PDFAnalyserApplication<pdfread>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.scoreme.pdfread.PDFAnalyserApplication",
+            "projectName": "pdfread",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
