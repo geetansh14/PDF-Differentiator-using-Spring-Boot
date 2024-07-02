@@ -5,7 +5,7 @@
 
 The PDF Differentiator is a Spring Boot application designed to analyze PDFs and determine whether they are scanned or computer-generated. It utilizes a combination of text extraction, image detection, metadata analysis, and Optical Character Recognition (OCR) to achieve this. The application is capable of handling various types of PDFs, including those with no text or image content.
 
-**Features : **
+**Features :**
 
 Text Extraction: Extracts and analyzes text to identify if the PDF is computer-generated.
 Image Detection: Detects and analyzes images to determine if the PDF is scanned.
